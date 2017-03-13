@@ -1,2 +1,6 @@
 
 sunck is a  vary nice  man
+<<<<<<< HEAD
+=======
+
+>>>>>>> r
